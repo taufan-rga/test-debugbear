@@ -139,11 +139,11 @@ const FitnessLandingPage: FunctionComponent = () => {
           <div className={styles.exerciseCardsDiv}>
             <div className={styles.column1Div}>
               <div className={styles.exerciseCardDiv}>
-                <img
+                {/* <img
                   className={styles.cardImageIcon}
                   alt=""
                   src="../cardimage@2x.png"
-                />
+                /> */}
                 <div className={styles.textDiv}>
                   <div className={styles.titlesDiv}>
                     <div className={styles.liftingDiv}>Treadmill</div>
@@ -162,11 +162,11 @@ const FitnessLandingPage: FunctionComponent = () => {
                 </div>
               </div>
               <div className={styles.exerciseCardDiv}>
-                <img
+                {/* <img
                   className={styles.imageIcon}
                   alt=""
                   src="../image@2x.png"
-                />
+                /> */}
                 <div className={styles.textDiv}>
                   <div className={styles.titlesDiv}>
                     <div className={styles.liftingDiv}>Running</div>
@@ -187,11 +187,11 @@ const FitnessLandingPage: FunctionComponent = () => {
             </div>
             <div className={styles.column1Div}>
               <div className={styles.exerciseCardDiv2}>
-                <img
+                {/* <img
                   className={styles.imageIcon}
                   alt=""
                   src="../cardimage1@2x.png"
-                />
+                /> */}
                 <div className={styles.textDiv}>
                   <div className={styles.titlesDiv}>
                     <div className={styles.liftingDiv}>Stretching</div>
@@ -210,11 +210,11 @@ const FitnessLandingPage: FunctionComponent = () => {
                 </div>
               </div>
               <div className={styles.exerciseCardDiv}>
-                <img
+                {/* <img
                   className={styles.imageIcon}
                   alt=""
                   src="../group-6@2x.png"
-                />
+                /> */}
                 <div className={styles.textDiv}>
                   <div className={styles.titlesDiv}>
                     <div className={styles.liftingDiv}>Lifting</div>
@@ -235,11 +235,11 @@ const FitnessLandingPage: FunctionComponent = () => {
             </div>
             <div className={styles.column1Div}>
               <div className={styles.exerciseCardDiv2}>
-                <img
+                {/* <img
                   className={styles.imageIcon}
                   alt=""
                   src="../group-61@2x.png"
-                />
+                /> */}
                 <div className={styles.textDiv}>
                   <div className={styles.titlesDiv}>
                     <div className={styles.liftingDiv}>Yoga</div>
@@ -258,11 +258,11 @@ const FitnessLandingPage: FunctionComponent = () => {
                 </div>
               </div>
               <div className={styles.exerciseCardDiv}>
-                <img
+                {/* <img
                   className={styles.imageIcon}
                   alt=""
                   src="../group-62@2x.png"
-                />
+                /> */}
                 <div className={styles.textDiv}>
                   <div className={styles.titlesDiv}>
                     <div className={styles.liftingDiv}>Pushup</div>
