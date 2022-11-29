@@ -312,58 +312,58 @@ const FitnessLandingPage: FunctionComponent = () => {
         <div className={styles.trainersImagesDiv}>
           <div className={styles.desktopDiv}>
             <div className={styles.trainer3Div}>
-              {/* <img
+              <img
                 className={styles.groupIcon3}
                 alt=""
                 src="../group-142@2x.png"
-              /> */}
+              />
               <div className={styles.samanthaWilliamDiv}>Samantha William</div>
               <div className={styles.trainerDiv}>Trainer</div>
             </div>
             <div className={styles.trainer2Div}>
-              {/* <img
+              <img
                 className={styles.groupIcon3}
                 alt=""
                 src="../group-147@2x.png"
-              /> */}
+              />
               <div className={styles.samanthaWilliamDiv}>Karen Summer</div>
               <div className={styles.trainerDiv}>Trainer</div>
             </div>
             <div className={styles.trainer1Div}>
-              {/* <img
+              <img
                 className={styles.groupIcon5}
                 alt=""
                 src="../group-146@2x.png"
-              /> */}
+              />
               <div className={styles.jonathanWiseDiv}>Jonathan Wise</div>
               <div className={styles.trainerDiv2}>Trainer</div>
             </div>
           </div>
           <div className={styles.tabletDiv}>
             <div className={styles.trainer3Div1}>
-              {/* <img
+              <img
                 className={styles.groupIcon6}
                 alt=""
                 src="../group-1471@2x.png"
-              /> */}
+              />
               <div className={styles.karenSummerDiv1}>Karen Summer</div>
               <div className={styles.trainerDiv3}>Trainer</div>
             </div>
             <div className={styles.trainer2Div1}>
-              {/* <img
+              <img
                 className={styles.groupIcon7}
                 alt=""
                 src="../group-1461@2x.png"
-              /> */}
+              />
               <div className={styles.jonathanWiseDiv1}>Jonathan Wise</div>
               <div className={styles.trainerDiv4}>Trainer</div>
             </div>
             <div className={styles.trainer1Div1}>
-              {/* <img
+              <img
                 className={styles.groupIcon8}
                 alt=""
                 src="../group-1421@2x.png"
-              /> */}
+              />
               <div className={styles.samanthaWilliamDiv1}>Samantha William</div>
               <div className={styles.trainerDiv5}>Trainer</div>
             </div>
